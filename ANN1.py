@@ -15,10 +15,10 @@ from sklearn.preprocessing import StandardScaler
 from tensorflow.keras.models import Sequential
 from tensorflow.keras.layers import Dense
 from tensorflow.keras.layers import ReLU
-from tensorflow.keras.layers import Dropout
+# from tensorflow.keras.layers import Dropout
 # from tensorflow.keras.metrics import Accuracy
 # from tensorflow.keras.optimizers import Adam
-from tensorflow.keras.losses import BinaryCrossentropy
+# from tensorflow.keras.losses import BinaryCrossentropy
 """
 Step 2: reading the csv dataset
 """
